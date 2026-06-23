@@ -4,7 +4,7 @@
 This project implements a 4-bit Arithmetic Logic Unit (ALU) using Verilog and simulates it using ModelSim SE.
 
 # Features
-- 4-bit Addition
+- 4-bit Addition 
 - 4-bit Subtraction
 - AND, OR, XOR
 - NOT operation
